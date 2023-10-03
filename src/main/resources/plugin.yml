@@ -1,0 +1,4 @@
+name: MongoDBTest
+version: '${project.version}'
+main: me.cole.mongodbtest.MongoDBTest
+api-version: '1.20'
