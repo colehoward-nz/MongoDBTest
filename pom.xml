@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.cole</groupId>
-    <artifactId>MongoDBTest</artifactId>
+    <artifactId>cCore</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
@@ -80,7 +80,7 @@
         </dependency>
         <dependency>
             <groupId>org.mongodb</groupId>
-            <artifactId>mongodb-driver</artifactId>
+            <artifactId>mongodb-driver-sync</artifactId>
             <version>3.11.3</version>
         </dependency>
     </dependencies>
